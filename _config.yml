@@ -27,8 +27,7 @@ github_username:  jolson88
 # Build settings
 destination: ../site
 markdown: kramdown
-# theme: minima
-theme: jekyll-swiss
+highlighter: rouge
 plugins:
   - jekyll-feed
 
