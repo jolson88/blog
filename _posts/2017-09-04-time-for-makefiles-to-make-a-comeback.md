@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "It's time for makefiles to make a comeback"
+comments: true
 date:   2017-09-04
 categories: Programming
 ---
