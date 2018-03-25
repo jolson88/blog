@@ -24,6 +24,7 @@ url: "http://jolson88.com" # the base hostname & protocol for your site, e.g. ht
 twitter_username: jolson88
 github_username: jolson88
 disqus_shortname: jolson88
+google_tracking_id: "UA-116290502-1"
 
 # Build settings
 destination: ../site
