@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Agile Lost: devs as cogs in a wheel"
-date:   2018-04-01
+date:   2018-04-02
 categories: Leadership
 ---
 > Multipliers extract all the capability from people... We were amazed to find that Multipliers got 1.97 times more. That represents an almost twofold increase - a 2x effect... Multipliers get at least two times more from people.
