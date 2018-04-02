@@ -2,7 +2,7 @@
 layout: post
 title:  "So I'm not broken as a creator?"
 date:   TBDD-TB-DD
-categories: Creativity
+categories: Growth
 ---
 
 Composing vs. Arranging

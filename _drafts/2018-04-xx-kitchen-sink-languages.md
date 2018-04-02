@@ -1,11 +1,14 @@
 ---
 layout: post
 title:  "The dominance of Kitchen Sink languages"
-date:   TBDD-TB-DD
+date:   2018-04-xx
 categories: Programming
 ---
 
-TODO
+> "A language that doesn't affect the way you think about programming, is not worth knowing."
+>
+> Alan Perlis
+
 
 Based on these tweets of mine:
 ""A language that doesn't affect the way you think about programming, is not worth knowing." (Perlis). This is why I like learning about Erlang, Smalltalk, Lisp, Haskell, Prolog, Self, Forth, APL, etc. Many langs today feel just like mashups of Algol + concepts from the above list"
