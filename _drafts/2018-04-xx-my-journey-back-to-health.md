@@ -27,25 +27,32 @@ I suppose, I could say that I'm finally finding my own inner drive and will to l
 > Siddartha Guatama Buddha
 
 # The final straw
-TODO: Notes about picture and weight at max
+The final straw came at a recent annual check-up at my physician's office. I stepped on the scale and..... dayum, 481 pounds. NO, NO, NO. Nearly 500 pounds. HELL NO. This can't happen. There is no way in H-E-Double-Hockey-Sticks I'm going to cross the 500 pound mark. But unless I made some serious changes, it was going to happen.
 
-TODO: Image of max weight
+I was already wearing 6x shirts and pushing towards needing even larger. Sigh. This is what I'd done to myself. I let it get this far. Nobody else did this to me. I needed to take ownership of this. I needed to change.
+
 ![Me close to max weight]({{ "/images/weight-max.jpg" | absolute_url }})
 
-After getting a wrist band to track my physical activity, I found that it wasn't uncommon for me to take fewer than 400 steps in a day. I might as well have just stayed in bed all day. I was drowning myself with inactivity. My body and mind was just languishing. It's no wonder I was dealing with depression and anxiety.
+I started tracking my calories on MyFitnessPal. TODO (caloric count of a meal at Jack in the Box)
 
-TODO
+I got a wrist band to track my physical activity, I found that it wasn't uncommon for me to take fewer than 400 steps in a day. I might as well have just stayed in bed all day. I was drowning myself with inactivity.
+
+My body and mind was just languishing. It's no wonder I was dealing with depression and anxiety. This needed to stop. Something had to change.
+
+So I set out to make the changes I needed so that I could go hacking with my kids, to easily walk out to lunch with coworkers, to be able to comfortably buckle the seat belt in my car, to be around long enough to be a grandparent.
 
 > “Lack of activity destroys the good condition of every human being, while movement and methodical physical exercise save it and preserve it.”
 >
 > Plato
 
 # How I finally made changes
-TODO (baby steps; this was a lifestyle change, needed to be able to keep it up)
+I'm a lazy person. I needed to find things that I could do and stick to. It wasn't enough to try a change. I had to make changes that I knew I could continue with. This was a lifestyle change I was embarking on, not a temporary change. Expecting myself to make a bunch of healthy food on Sunday and plan out my entire week was not going to work. With the depression, I simply didn't have the energy for many changes.
 
 TODO (designing your life for happiness)
 
 TODO (baby step examples: no soda, less fast-food, more salads, 800 steps at work -> 1k -> 1.25k. again, "making more good decisions than bad")
+
+TODO (It's like compounding interest; good builds on good builds on good).
 
 TODO (tools: myfitnesspal, premade salads, soylent)
 
