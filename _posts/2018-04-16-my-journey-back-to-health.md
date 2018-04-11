@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Finding my path back to health"
-date:   2018-04-09
+date:   2018-04-16
 categories: Personal
 ---
+
+Well, I'm now a year older than I was previously. This birthday in particular has me reflective on the decisions I've made in the past about my personal health and wanting to share my story.
 
 This is going to be a very personal post. I'm going to mention numbers, habits, and details that I'm quite embarrassed or ashamed about. But I feel it's the right time to share my story with others and to share the steps that I've taken to get my health back on track. I wanted to wait to write this until new habits have been formed and I feel like I'm on track. That time has come.
 
