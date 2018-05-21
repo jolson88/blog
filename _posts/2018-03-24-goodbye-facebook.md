@@ -3,6 +3,7 @@ layout: post
 title:  "Goodbye, Facebook"
 date:   2018-03-24
 categories: Personal
+comments: false
 ---
 > “Our inventions are wont to be pretty toys, which distract our attention from serious things. They are but improved means to an unimproved end, an end which it was already but too easy to arrive at..."
 >

@@ -3,6 +3,10 @@ TODO (the importance of empathy and compassion in the workplace)
 TODO (three simple things we can avoid doing to start being more compassionate at work).
 
 # Don't spread the plague
+> "The tongue like a sharp knife... Kills without drawing blood."
+>
+> Buddha
+
 TODO (Talking bad about others; negative emotions/thoughts; very viral and spreads)
 
 # Don't compare yourself to others

@@ -3,6 +3,7 @@ layout: post
 title:  "Taking back my attention"
 date:   2018-04-05
 categories: Personal
+comments: false
 ---
 
 Some people have told me I'm crazy. Recently, I've deleted my account on Facebook, uninstalled all games from my phone, turned off all notifications on both my phone and desktop, only have two/three apps on my home screen, have no email on my phone, leave my phone in "Black and White" accessibility mode, have my phone on vibrate all day, don't take my phone into meetings (and preferable no laptop either), and never take my laptop into my bedroom.

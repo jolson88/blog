@@ -3,6 +3,7 @@ layout: post
 title:  "Finding my path back to health"
 date:   2018-04-16
 categories: Personal
+comments: false
 ---
 
 Well, I'm now a year older than I was previously. This birthday in particular has me reflective on the decisions I've made in the past about my personal health and wanting to share my story.
