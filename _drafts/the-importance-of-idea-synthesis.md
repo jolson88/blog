@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The importance of idea synthesis"
-date:   TTTT-TB-DD
+date:   2002-02-02
 categories: Growth
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When is code 'Good Enough'?"
-date:   TBDD-TB-DD
+date:   2002-02-02
 categories: Programming
 ---
 

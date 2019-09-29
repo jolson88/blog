@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The dominance of Kitchen Sink languages"
-date:   2018-04-xx
+date:   2018-04-01
 categories: Programming
 ---
 

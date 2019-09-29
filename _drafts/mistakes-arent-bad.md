@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mistakes aren't a bad thing"
-date:   2018-xx-xx
+date:   2018-04-02
 categories: Leadership
 ---
 
